@@ -1,0 +1,15 @@
+.bg-heracom{   
+    width: 100%;
+    position: absolute;
+}
+
+.waves img{
+    margin-top: 26%;
+    position: absolute;
+    width: 100%;
+    z-index: 20;
+}
+
+.wave-front{
+    animation: wav-front 4s linear infinite;
+}
