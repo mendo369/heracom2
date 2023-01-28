@@ -1,0 +1,22 @@
+[
+    {
+        "Name":"Plan Familiar",
+        "Description":"Lorem impsum dolor sit amet conecticut",
+        "img":"PlanFamiliar"
+    },
+    {
+        "Name":"Plan Empresarial",
+        "Description":"Lorem impsum dolor sit amet conecticut",
+        "img":"PlanEmpresarial"
+    },
+    {
+        "Name":"Plan general",
+        "Description":"Lorem impsum dolor sit amet conecticut",
+        "img":""
+    },
+    {
+        "Name":"Other plan",
+        "Description":"Lorem impsum dolor sit amet conecticut",
+        "img":""
+    }
+]
