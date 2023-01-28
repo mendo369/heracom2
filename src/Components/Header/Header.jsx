@@ -7,7 +7,7 @@ import waveFront from '../../Assets/Img/wave-front.png'
 
 export default function Header() {
   return (
-    <div>
+    // <div>
         <div className="header">
             <img className="bg-heracom" src={Logo} alt="Logo Heracom"/>
             <div className="waves">
@@ -16,7 +16,7 @@ export default function Header() {
             </div>
            
         </div>
-        
-    </div>
+      
+    // </div>
   )
 }

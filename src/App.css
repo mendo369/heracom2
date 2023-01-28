@@ -9,3 +9,20 @@
 body{
   background-color: var(--background-color);
 }
+
+.home{
+  display: grid;
+  grid-auto-flow: row;
+}
+
+.Header{
+  position: relative;
+}
+
+.header{
+  position: relative;
+}
+
+.plans{
+  position: relative;
+}
