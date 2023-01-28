@@ -1,3 +1,8 @@
+:root{
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+
+}
+
 .plans{
     width: 60vw;
     display: grid;
